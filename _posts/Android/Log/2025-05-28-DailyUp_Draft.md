@@ -3,9 +3,9 @@ title:  "DailyUp 어플리케이션 구상안"
 excerpt: ""
 
 categories:
-  - android-portfolio-log
+  - android-log
 tags:
-  - [Android, 안드로이드, Portfolio, 포트폴리오]
+  - [Android, 안드로이드, Portfolio, 포트폴리오, Log, 개발일지]
 
 toc: true
 toc_sticky: true
