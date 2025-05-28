@@ -28,6 +28,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "android-portfolio-log" %}
+                        <li><a href="/categories/android-portfolio" class="">포트폴리오 개발일지 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
 
       <li>
