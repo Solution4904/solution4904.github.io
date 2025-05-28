@@ -30,7 +30,7 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "android-portfolio-log" %}
+                    {% if category[0] == "android-log" %}
                         <li><a href="/categories/android-log" class="">개발일지 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
