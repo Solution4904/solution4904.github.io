@@ -3,7 +3,7 @@ title:  "DailyUp 어플리케이션 구상안"
 excerpt: ""
 
 categories:
-  - android-portfolio
+  - android-portfolio-log
 tags:
   - [Android, 안드로이드, Portfolio, 포트폴리오]
 
