@@ -11,11 +11,12 @@ toc: true
 toc_sticky: true
  
 date: 2025-05-28
-last_modified_at: 2025-05-28
+last_modified_at: 2025-05-29
 ---
 
 # 💡 0. 수정 내역
 - 2025-05-28 작성
+- 2025-05-29 레퍼런스 이미지 추가
 
 <br><br><br>
 
@@ -42,9 +43,19 @@ last_modified_at: 2025-05-28
 
 <br><br><br>
 
-# 💡 4. 희망 업그레이드
+# 💡 4. 희망 사양
 - 로컬 저장 방식 -> Firebase로 서버 저장 or 데이터 내보내기/불러오기
 - 로컬 계정 -> 이메일 가입 or SNS연동
 - Jetpack Compose 혼용
 - 통계 그래프
 - 기기 테마 반영 (Light / Dark)
+
+<br><br><br>
+
+# 💡 5. 레퍼런스
+
+
+> <p align="center">
+> <img width="30%" height="30%" src="https://play-lh.googleusercontent.com/VYQFq99rDUgfswDzFudFdCxPtsVecxHN5gYgaevOsYan3g7IxLoQjiDGWuR2yKo6AA=w2560-h1440-rw"><br>
+> TickTick 앱 : https://play.google.com/store/apps/details?id=com.ticktick.task&pcampaignid=web_share
+</p>
